@@ -1,0 +1,5 @@
+yolo-env/
+.env
+datasets/
+models/
+.pt
